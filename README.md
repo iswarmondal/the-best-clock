@@ -1,1 +1,0 @@
-# This is an amazing clock app here on the internet
